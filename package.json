@@ -1,0 +1,14 @@
+{
+  "name": "covid19tracer",
+  "version": "1.0.0",
+  "description": "COVID-19 Tracer React App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MD. Khaleduzzaman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
